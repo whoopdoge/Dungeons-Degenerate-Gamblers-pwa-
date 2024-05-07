@@ -1,6 +1,6 @@
 {
-  "name": "PWA Basic Example",
-  "short_name": "PWA Basic",
+  "name": "Casual Crusade",
+  "short_name": "Casual Crusade",
   "icons": [ {
         "src": "./H.png",
         "type": "image/png",
@@ -9,6 +9,6 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#2196F3",
-  "theme_color": "#2196F3"
+  "background_color": "#000000",
+  "theme_color": "#000000"
 }
